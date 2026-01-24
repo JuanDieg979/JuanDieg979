@@ -8,4 +8,3 @@
 - 📫 How to reach me: navavictoriojuandiego979@gmail.com
 - 😄 Pronouns: Diego/Juan/Juanito
 - ⚡ Fun fact: My city is the best
-
