@@ -1,4 +1,4 @@
-# Hi there! I'm [Tu Nombre] 👋
+# Hi there! I'm Diego Nava 👋
 
 I am a **Computer Systems Engineering student** at *Tecnológico Nacional de México*. I am passionate about software development, focusing on building efficient backend solutions, exploring data analysis, and diving into the world of hardware with Arduino.
 
